@@ -20,5 +20,7 @@
 	<classpathentry kind="src" path="Heranca"/>
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="API"/>
+	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="lib" path="C:/Users/Noite/Downloads/json-20210307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

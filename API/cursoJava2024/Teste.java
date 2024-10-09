@@ -1,4 +1,4 @@
-package cursoJava2024;
+package cursoJava2024;//aqu o nome é o dominio de criação
 
 import java.util.Scanner;
 
