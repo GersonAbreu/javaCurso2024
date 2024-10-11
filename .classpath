@@ -22,6 +22,7 @@
 	<classpathentry kind="src" path="API"/>
 	<classpathentry kind="src" path="CRUD"/>
 	<classpathentry kind="src" path="Gerente"/>
+	<classpathentry kind="src" path="Interfaces"/>
 	<classpathentry kind="lib" path="C:/Users/Noite/Downloads/json-20210307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
