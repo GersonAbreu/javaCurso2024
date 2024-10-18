@@ -27,6 +27,7 @@
 	<classpathentry kind="src" path="InterfaceGrafica"/>
 	<classpathentry kind="src" path="Calculadoraw"/>
 	<classpathentry kind="src" path="AtividadeUrl"/>
+	<classpathentry kind="src" path="CalculadoraIMCIACInterface"/>
 	<classpathentry kind="lib" path="C:/Users/Noite/Downloads/json-20210307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
