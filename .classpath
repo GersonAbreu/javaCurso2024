@@ -24,6 +24,7 @@
 	<classpathentry kind="src" path="Gerente"/>
 	<classpathentry kind="src" path="Interfaces"/>
 	<classpathentry kind="src" path="TryCatch"/>
+	<classpathentry kind="src" path="InterfaceGrafica"/>
 	<classpathentry kind="lib" path="C:/Users/Noite/Downloads/json-20210307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
